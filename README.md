@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Suited for a modern architecture
+Apollo is a great fit with microservice architectures and modern UI frameworks like React. It serves as an abstraction layer that decouples services and apps so that each can be developed independently of the other, in any language and on any platform.
+![spacex](https://d33wubrfki0l68.cloudfront.net/ab8c5822a9e979e87b0cc002a13e1366d7835cdb/94e86/static/data-graph-03ae80aa1185afec314872f812681b65.png)
+
+
 ## Getting Started
 
 First, run the development server:
